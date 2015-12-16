@@ -1,3 +1,3 @@
 # app-curriculo-andre-velho-01
 App currículo vitae André Velho
-Gustavo
+Gustavo 02
